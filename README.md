@@ -1,4 +1,4 @@
-# learn365
+# Bugbounty-learn365
 
 This repository contains all the information shared during my Learn 365 Challenge. Learn 365 is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life. Follow me on Twitter for Regular Updates: [Sonu Chaudhary](https://twitter.com/dufferhackers) Huge thanks to [Harsh Bothra](https://twitter.com/harshbothra_) & [Mehedi Hasan Remon](https://twitter.com/remonsec), who originally created and maintained this repository. 
 ___
